@@ -1,0 +1,20 @@
+# Ignore local git repo
+.git
+.gitignore
+
+# Ignore node modules (if any)
+node_modules
+
+# Ignore local environment config
+.env
+
+# Ignore build artifacts
+build
+dist
+
+# Ignore documentation and temporary files
+*.md
+*.log
+.vscode
+.idea
+*.swp
